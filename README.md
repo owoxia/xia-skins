@@ -1,5 +1,8 @@
 # xia-skins
 xia's skins :D
 
+# 2.Kablaze
+[https://osuskins.net/skin/eDgID2f]
+
 # 1.Abyssal
-[https://circle-people.com/skins/?osu=Abyssal&download=0]
+[]
